@@ -10,13 +10,8 @@
 <br>
 
 <div align="center">
-  <h2 style="line-height: 1;">
-    ✨ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=380&lines=Full+Stack+Developer;Building+Cool+Stuff" alt="Typing SVG" style="display: inline-block; vertical-align: middle; margin: 0 5px;" /> ✨
-  </h2>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=450&lines=%E2%9C%A8+Full+Stack+Developer+%E2%9C%A8;%E2%9C%A8+Building+Cool+Stuff+%E2%9C%A8" alt="Typing SVG" /></a>
 </div>
-
-<br>
-
 <!-- Tech Stack Section -->
 <table>
 <tr>
@@ -57,18 +52,16 @@
 </tr>
 </table>
 
-<br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer"/>
 
----
-
-
-### 🐾 *The cat says: "git push --force at your own risk"*
+<h4 align="center">🐾 <em>The cat says: "git push --force at your own risk"</em></h4>
 
 <br>
 
 <a href="https://www.linkedin.com/in/caroline-laura-mathias/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/☁️_LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 25px;" height="40"/>
 </a>
+
 
 
 <sub>⚡ Powered by coffee, curiosity, and occasional anxiety</sub>
