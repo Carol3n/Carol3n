@@ -1,39 +1,7 @@
 <div align="center">
 
 <!-- Cute Pixel Cat SVG -->
-<svg width="120" height="120" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
-  <!-- Body -->
-  <rect x="40" y="60" width="40" height="30" fill="#FF6B9D"/>
-  <!-- Head -->
-  <rect x="35" y="35" width="50" height="30" fill="#FF6B9D"/>
-  <!-- Left Ear -->
-  <polygon points="35,35 35,25 45,35" fill="#FF6B9D"/>
-  <!-- Right Ear -->
-  <polygon points="85,35 85,25 75,35" fill="#FF6B9D"/>
-  <!-- Left Eye -->
-  <circle cx="48" cy="45" r="3" fill="#2D2D2D"/>
-  <!-- Right Eye -->
-  <circle cx="72" cy="45" r="3" fill="#2D2D2D"/>
-  <!-- Nose -->
-  <rect x="58" y="52" width="4" height="3" fill="#2D2D2D"/>
-  <!-- Mouth -->
-  <path d="M 60 55 Q 55 58 50 55" stroke="#2D2D2D" stroke-width="1.5" fill="none"/>
-  <path d="M 60 55 Q 65 58 70 55" stroke="#2D2D2D" stroke-width="1.5" fill="none"/>
-  <!-- Whiskers Left -->
-  <line x1="35" y1="48" x2="20" y2="45" stroke="#2D2D2D" stroke-width="1"/>
-  <line x1="35" y1="52" x2="20" y2="52" stroke="#2D2D2D" stroke-width="1"/>
-  <!-- Whiskers Right -->
-  <line x1="85" y1="48" x2="100" y2="45" stroke="#2D2D2D" stroke-width="1"/>
-  <line x1="85" y1="52" x2="100" y2="52" stroke="#2D2D2D" stroke-width="1"/>
-  <!-- Tail -->
-  <path d="M 75 75 Q 90 70 95 85" stroke="#FF6B9D" stroke-width="8" fill="none" stroke-linecap="round"/>
-  <!-- Front Legs -->
-  <rect x="45" y="85" width="8" height="15" fill="#FF6B9D"/>
-  <rect x="67" y="85" width="8" height="15" fill="#FF6B9D"/>
-  <!-- Paws -->
-  <ellipse cx="49" cy="100" rx="5" ry="3" fill="#FFB6C1"/>
-  <ellipse cx="71" cy="100" rx="5" ry="3" fill="#FFB6C1"/>
-</svg>
+<img src="https://clipartcraft.com/images/cat-transparent-pixel-9.png" alt="Pixel Cat" width="120"/>
 
 <br>
 
@@ -41,7 +9,11 @@
 
 <br>
 
-## ✨ Full Stack Developer ✨
+<div align="center">
+  <h2 style="line-height: 1;">
+    ✨ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=380&lines=Full+Stack+Developer;Building+Cool+Stuff" alt="Typing SVG" style="display: inline-block; vertical-align: middle; margin: 0 5px;" /> ✨
+  </h2>
+</div>
 
 <br>
 
@@ -89,7 +61,6 @@
 
 ---
 
-<br>
 
 ### 🐾 *The cat says: "git push --force at your own risk"*
 
@@ -99,19 +70,6 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-<br><br>
-```javascript
-while(alive) {
-   eat();
-   sleep();
-   code();
-   repeat();
-}
-```
-
-<br>
-
----
 
 <sub>⚡ Powered by coffee, curiosity, and occasional anxiety</sub>
 
